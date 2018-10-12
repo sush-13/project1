@@ -1,0 +1,47 @@
+P11 - Constructor  Thursday
+
+Impl a program to demons the foll contructors.
+1. default
+2. parameterised
+3. copy
+
+Impl a prog for bank account.
+1. Create acc
+2. Deposit money
+3. Withdraw money wil min bal Rs. 500
+4. Display Acc details
+Make acc no. as static and use constructors
+
+THEORY
+SN
+1. def cons
+2. parameterised con
+3. copy cons
+4. Constructor overloading
+
+
+P12 - Destructor Thursday
+
+Impl a prog to dem destructor.
+
+THEO
+Sn on chars of destructor
+
+
+
+P13 - Operator overloading	Next week thursday
+
+1. Impl a prog to overload + operator for complex no. addition.
+2. Impl a prog to overload + operator to concatenate 2 strings.
+3. Overload multiply oper for matrix multiplication
+4. Overload the foll relational operators
+ a. < >= > >= ==!=  
+5. Overload ++ -- ops
+6. Overload array subscript operator
+7. Overload insertion, extraction and compound assignment(+=) operator to add 2 distances given in feet and inches.
+
+THEORY
+Sn
+1. Syntax of operator function
+2. Steps for operator overloading.
+3. Rules of operator function
