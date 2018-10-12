@@ -38,5 +38,5 @@ P13 - Operator overloading	Next week thursday
  a. < >= > >= ==!=  
 5. Overload ++ -- ops
 6. Overload array subscript operator
-7. Overload insertion, extraction and compound assignment(+=) operator to add 2 distances given in feet and inches.
+7
 
