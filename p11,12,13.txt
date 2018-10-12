@@ -40,8 +40,3 @@ P13 - Operator overloading	Next week thursday
 6. Overload array subscript operator
 7. Overload insertion, extraction and compound assignment(+=) operator to add 2 distances given in feet and inches.
 
-THEORY
-Sn
-1. Syntax of operator function
-2. Steps for operator overloading.
-3. Rules of operator function
